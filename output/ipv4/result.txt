@@ -1,11 +1,9 @@
 🕘️更新时间,#genre#
-2026-06-10 20:58:44,http://198.204.240.250:82/live/cctv6.m3u8
+2026-06-11 07:27:12,http://198.204.240.250:82/live/cctv6.m3u8
 
 📺央视频道,#genre#
 CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-14,http://101.66.195.125:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-15,http://101.66.195.125:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
 
 💰央视付费频道,#genre#
 文化精品,http://107.150.60.122/live/ysjp.m3u8
@@ -18,11 +16,7 @@ CCTV-15,http://101.66.195.125:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-东南卫视,http://101.66.195.125:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
-广西卫视,http://101.66.195.125:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
-贵州卫视,http://101.66.195.125:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-辽宁卫视,http://101.66.195.125:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 
 🌊港·澳·台,#genre#
